@@ -1,0 +1,38 @@
+@media (max-width: 576px) {
+    .search {
+        width: 80vw;
+    }
+
+    .location-name h1 {
+        font-size: 3rem;
+    }
+
+    .location-temp h2 {
+        font-size: 2rem;
+    }
+
+    .location-temp h2 svg {
+        width: 100px;
+        height: 100px;
+    }
+
+    .location-temp h2 {
+        position: relative;
+        left: 30px;
+    }
+
+    .time {
+        width: 270px;
+    }
+}
+
+@media (max-width: 768px) {
+    .time {
+        width: 310px;
+    }
+
+    .location-temp h2 {
+        font-size: 2.3rem;
+        justify-content: unset;
+    }
+}
