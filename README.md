@@ -42,6 +42,7 @@ API is an acronym for Applications Programming Interface. An API is therefore a 
  
 # Project Status
   - This application is working correclty
+  - [Redirect](https://lavender-mussel-garb.cyclic.app/)
 
 # Author
   Rohan Basnet
