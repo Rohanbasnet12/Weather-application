@@ -38,7 +38,6 @@ body {
     align-items: center;
     justify-content: center;
     backdrop-filter: blur(14px);
-    filter: hue-rotate(45deg);
 }
 
 .search {
