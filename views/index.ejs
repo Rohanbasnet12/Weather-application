@@ -408,7 +408,7 @@
                     </div>
                     <div class="time">
                         <div class="current-time">
-                            <% const currentTimeWithoutSeconds = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', timeZone: 'UTC' }); %>
+                            <% const currentTime = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', timeZone: 'UTC' }); %>
                                 <h4>
                                     <%= currentTime %>
                                 </h4>
